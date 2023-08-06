@@ -8,9 +8,9 @@ Soy **Leonardo Gonzalez** también conocido como **legodev**. Frontend Developer
 
 Aprender todos los días para mi es crucial y más  en un mundo donde _la tecnología avanza a pasos agigantados_.
 
-Mi sueño es algún dia guiar a las nuevas generaciones en todo esto del desarrollo web el cual es _increiblemente extenso y lleno de cosas hermosas_.
+Mi sueño es algún dia guiar a las nuevas generaciones en esto del desarrollo web el cual es _increiblemente extenso y lleno de cosas hermosas_.
 
-![primer-banner](./React_Banner.png)
+![primer-banner](./react-banner.png)
 
 ---
 
@@ -21,9 +21,9 @@ Aquí encontrarás algunos de mis proyectos más destacados:
 - [Proyecto sin terminar](enlace_al_repositorio) - Una breve descripción del proyecto.
 - [Proyecto sin terminar](enlace_al_repositorio) - Una breve descripción del proyecto.
 
-![primer-banner](./banner-2.webp)
+![primer-banner](./javascript-banner.png)
 
-## Skills 🧠
+## Habilidades 🧠 
 
 * **HTML5**
 * **CSS3**
@@ -62,13 +62,12 @@ Me encanta colaborar en proyectos de código abierto y contribuir a la comunidad
 Puedes encontrarme en las siguientes redes sociales:
 
 - [LinkedIn](enlace_a_tu_perfil_de_LinkedIn)
-- [Twitter](enlace_a_tu_perfil_de_Twitter)
 - [Correo electrónico](mailto:gonzalezleonardo283@gmail.com)
 
 ¡No dudes en contactarme si quieres charlar sobre proyectos interesantes o simplemente saludar!
 
 
 
-¡Gracias por visitar mi perfil! Espero que encuentres algo interesante en mis repositorios. ¡No olvides seguirme para estar al tanto de mis últimas actualizaciones! 😉
+¡Gracias por visitar mi perfil! Espero que encuentres algo interesante en mis repositorios. ¡No olvides seguirme para estar al tanto de mis últimas actualizaciones! 😉 🌟
 
-![footer-banner](./1st-banner.jpg)
+![footer-banner](./footer-banner.jpg)
