@@ -1,127 +1,74 @@
-# Aprendiendo **_Markdown:_**
+# ¡Buenas! 😉
 
-Este es mi primer párrafo, siempre y cuando no haya dado un enter el párrafo seguirá siendo el mismo.
- 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure nesciunt quas possimus, eum sapiente nemo voluptas quos nulla dolor repudiandae veritatis voluptatibus sint vel fugit reiciendis consequatur laudantium aliquid placeat!.
+¡Bienvenido/a a mi perfil de GitHub!
 
-Aplicando **negrita** y _cursiva_.
+## Sobre mí 🧉
 
-Ahora **_ambas_**.
+Soy **Leonardo Gonzalez** también conocido como **legodev**. Frontend Developer oriundo de Uruguay ![Bandera de Uruguay](./uruguay.png). Apasionado por el desarrollo web, computadoras y tecnología en general. 
 
-# Sección de **_encabezados_**
+Aprender todos los días para mi es crucial y más  en un mundo donde _la tecnología avanza a pasos agigantados_.
 
-# Encabezado 1
-## Encabezado 2
-### Encabezado 3
-#### Encabezado 4
-##### Encabezado 5
-###### Encabezado 6
+Mi sueño es algún dia guiar a las nuevas generaciones en todo esto del desarrollo web el cual es _increiblemente extenso y lleno de cosas hermosas_.
 
-    Ya en el encabezado 5 y 6 no hay casi   diferencia más allá de la sintaxis.
+![primer-banner](./React_Banner.png)
 
-En tecnología al símbolo **#** se le denomina **almohadilla** o **gato** y en inglés **hash**.
+---
 
-# **Links**
+## Proyectos destacados 💼
 
-[ Youtube ](https://youtube.com)
+Aquí encontrarás algunos de mis proyectos más destacados:
 
-[ ] Los corchetes contienen el texto que se mostrará.
+- [Proyecto sin terminar](enlace_al_repositorio) - Una breve descripción del proyecto.
+- [Proyecto sin terminar](enlace_al_repositorio) - Una breve descripción del proyecto.
 
-( ) Los paréntesis contienen la URL a la cuál va a redirigir dicho link.
+![primer-banner](./banner-2.webp)
 
-[Aprendiendo _Markdown_](#aprendiendo-markdown)
+## Skills 🧠
 
-[Sección encabezados](#sección-de-encabezados)
+* **HTML5**
+* **CSS3**
+* **JavaScript**
+* **TypeScript**
+* **ReactJS**
+* **Redux Toolkit**
+* **Bootstrap**
+* **Sass**
+* **Tailwind CSS**
 
-    Todos los encabezados funcionan también como un ancla para los links.
+<br/>
 
-
-
-# **Imágenes**
-
-![Satoru Gojo](https://img.youtube.com/vi/gG3Jkj4-6p0/hqdefault.jpg) 
-
-    Funciona como un link normal pero la diferencia está en que antes de los corchetes va el siguiente símbolo de exclamación !.
-
-
-# Línea divisoria
-
-Para hacer una línea divisoria se escribe 3 guiones medios. ---
-
-Esto hace que semánticamente haya una división entre un tema y otro.
+![HTML5](./html-logo.png)
+![CSS3](./css-logo.png)
+![JavaScript](./javascript-logo.png)
+![TypeScript](./typescript-logo.png)
+![ReactJS](./react-logo.png)
+![Redux-Toolkit](./redux-logo.png)
+![Bootstrap](./bootstrap-logo.png)
+![Sass](./sass-logo.png)
+![Tailwind-CSS](./tailwind-css-logo.png)
 
 
 
-# Listas
+<br />
 
-### Listas ordenadas
+--- 
 
-1. Primer elemento.
-1. Segundo elemento.
-1. Tercer elemento.
-1. Cuarto elemento.
+## Colaboración y contribución 🤝
 
-### Listas desordenadas
+Me encanta colaborar en proyectos de código abierto y contribuir a la comunidad de desarrolladores. Si tienes alguna sugerencia o mejora para alguno de mis proyectos, no dudes en abrir un **"issue"** o enviar un **"pull request"**. Estaría más que agradecido si te tomas el tiempo de hacerlo para así poder seguir creciendo.
 
-* Primavera
-    * 22 de Septiembre 
-* Verano
-    * 21 de Diciembre
-* Otoño
-    * 20 de Marzo
-* Invierno
-    *  21 de Junio
+## Contacto 📫
 
-#### Segunda lista
+Puedes encontrarme en las siguientes redes sociales:
 
-- Enero
-- Febrero
-- Marzo
-- Abril
+- [LinkedIn](enlace_a_tu_perfil_de_LinkedIn)
+- [Twitter](enlace_a_tu_perfil_de_Twitter)
+- [Correo electrónico](mailto:gonzalezleonardo283@gmail.com)
+
+¡No dudes en contactarme si quieres charlar sobre proyectos interesantes o simplemente saludar!
 
 
-    
-Para una lista ordenada se utiliza siempre el mismo número y automáticamente lo transpila a una lista ordenada.
-    
-    Para una lista desordenada sirven asteriscos (*) como guiones (-).
-    
-    Se puede hacer una sublista agregando debajo otro elemento.
 
-# Citas
->
-> "El conocimiento es poder." - Sir Francis Bacon.
+¡Gracias por visitar mi perfil! Espero que encuentres algo interesante en mis repositorios. ¡No olvides seguirme para estar al tanto de mis últimas actualizaciones! 😉
 
-> "La libertad consiste en ser dueños de la propia vida." - Platón.
-
-> "Dios ha muerto" - Friedrich Nietzsche.
->
-    Se ponen con el símbolo >.
-
-# Tablas 
-
-| Nombre | Edad | Correo |
-| --- | --- | --- |
-| Leonardo | 21 | leonardo@gmail.com
-| Pedro | 27 | pedro@gmail.com
-| Carla | 24 | carla@gmail.com
-| Valentina | 18 | valentina@gmail.com
-
-    Las tablas deben de tener siempre un encabezado seguido de columnas vacías tal que así. | --- | --- | --- |.
-    El | (pipe o barra vertical) indica que habrá una tabla.
-    Si tenemos 3 columnas las que irán vacías serían 3.
-    
-# Códigos
-
-Si quisiéramos introducir código en un párrafo se puede hacer muy facilmente con backticks o comillas graves: `const`. Si el código fuera más extenso con 3 backticks al inicio y al final de dicho código se puede hacer también.
-
-### Ejemplo con una función
-
-```js
-function suma () {
-    return a + b;
-}
-```
-
-De saber el lenguaje de programación se puede poner después de los 3 backticks del inicio para que se muestre como tal.
-
-# Fin de Markdown 👽
+![footer-banner](./1st-banner.jpg)
