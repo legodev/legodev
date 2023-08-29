@@ -10,8 +10,6 @@ Aprender todos los días para mi es crucial y más  en un mundo donde _la tecnol
 
 Mi sueño es algún dia guiar a las nuevas generaciones en esto del desarrollo web el cual es _increiblemente extenso y lleno de cosas hermosas_.
 
-![primer-banner](./react-banner.png)
-
 ---
 
 ## Proyectos destacados 💼
@@ -69,5 +67,3 @@ Puedes encontrarme en las siguientes redes sociales:
 
 
 ¡Gracias por visitar mi perfil! Espero que encuentres algo interesante en mis repositorios. ¡No olvides seguirme para estar al tanto de mis últimas actualizaciones! 😉 🌟
-
-![footer-banner](./footer-banner.jpg)
