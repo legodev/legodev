@@ -59,7 +59,7 @@ Me encanta colaborar en proyectos de código abierto y contribuir a la comunidad
 
 Puedes encontrarme en las siguientes redes sociales:
 
-- [LinkedIn](enlace_a_tu_perfil_de_LinkedIn)
+- [LinkedIn](https://www.linkedin.com/in/legodev/)
 - [Correo electrónico](mailto:gonzalezleonardo283@gmail.com)
 
 ¡No dudes en contactarme si quieres charlar sobre proyectos interesantes o simplemente saludar!
