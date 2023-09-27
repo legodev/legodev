@@ -26,7 +26,6 @@ Aquí encontrarás algunos de mis proyectos más destacados:
 * **HTML5**
 * **CSS3**
 * **JavaScript**
-* **TypeScript**
 * **ReactJS**
 * **Redux Toolkit**
 * **Bootstrap**
@@ -38,7 +37,6 @@ Aquí encontrarás algunos de mis proyectos más destacados:
 ![HTML5](./html-logo.png)
 ![CSS3](./css-logo.png)
 ![JavaScript](./javascript-logo.png)
-![TypeScript](./typescript-logo.png)
 ![ReactJS](./react-logo.png)
 ![Redux-Toolkit](./redux-logo.png)
 ![Bootstrap](./bootstrap-logo.png)
