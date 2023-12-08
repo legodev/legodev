@@ -4,7 +4,7 @@
 
 ## Sobre mí 🧉
 
-Soy **Leonardo Gonzalez** también conocido como **legodev**. Frontend Developer oriundo de Uruguay ![Bandera de Uruguay](./uruguay.png). Apasionado por el desarrollo web, computadoras y tecnología en general. 
+Soy **Leonardo Gonzalez**. Frontend Developer uruguayo ![Bandera de Uruguay](./uruguay.png). Apasionado por el desarrollo web, computadoras y tecnología en general. 
 
 Aprender todos los días para mi es crucial y más  en un mundo donde _la tecnología avanza a pasos agigantados_.
 
