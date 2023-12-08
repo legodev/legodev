@@ -4,11 +4,7 @@
 
 ## Sobre mí 🧉
 
-Soy **Leonardo Gonzalez**. Frontend Developer  ![Bandera de Uruguay](./uruguay.png). Apasionado por la tecnología en general. 
-
-Aprender todos los días para mi es crucial y más  en un mundo donde _la tecnología avanza a pasos agigantados_.
-
-Mi sueño es algún dia guiar a las nuevas generaciones en esto del desarrollo web el cual es _increiblemente extenso y lleno de cosas hermosas_.
+Soy **Leonardo Gonzalez**. Frontend Developer oriundo de Uruguay ![Bandera de Uruguay](./uruguay.png). Apasionado por la tecnología en general. 
 
 ---
 
