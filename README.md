@@ -1,4 +1,4 @@
-# ¡Buenas! 😉
+# ¡Buenas! 👍
 
 ¡Bienvenido/a a mi perfil de GitHub!
 
