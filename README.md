@@ -47,7 +47,7 @@ Aquí encontrarás algunos de mis proyectos más destacados:
 
 ## Colaboración y contribución 🤝
 
-Me encanta colaborar en proyectos de código abierto y contribuir a la comunidad de desarrolladores. Si tienes alguna sugerencia o mejora para alguno de mis proyectos, no dudes en abrir un **"issue"** o enviar un **"pull request"**. Estaría más que agradecido si te tomas el tiempo de hacerlo para así poder seguir creciendo.
+Si tienes alguna sugerencia o mejora para alguno de mis proyectos, no dudes en abrir un **"issue"** o enviar un **"pull request"**. Estaría más que agradecido si te tomas el tiempo de hacerlo para así poder seguir creciendo.
 
 ## Contacto 📫
 
