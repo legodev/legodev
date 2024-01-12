@@ -12,8 +12,8 @@ Soy **Leonardo Gonzalez**. Frontend Developer oriundo de Uruguay ![Bandera de Ur
 
 Aquí encontrarás algunos de mis proyectos más destacados:
 
-- [Weather App](https://weather-app-lg.netlify.app/) - Una aplicación de pronóstico de clima creada en React.js.
-- [Proyecto sin terminar](enlace_al_repositorio) - Una breve descripción del proyecto.
+- [Weather App](https://weather-app-lg.netlify.app/){:target="_blank"} - Aplicación de pronóstico del clima creada en React.js.
+- [Proyecto sin terminar](enlace_al_repositorio){:target="_blank"} - Una breve descripción del proyecto.
 
 ![primer-banner](./javascript-banner.png)
 
