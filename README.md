@@ -4,7 +4,7 @@
 
 ## Sobre mí 🧉
 
-Soy **Leonardo Gonzalez**. Frontend Developer oriundo de Uruguay ![Bandera de Uruguay](./uruguay.png). Autodidacta y loco por la tecnología. 
+Soy **Leonardo Gonzalez**. Frontend Developer oriundo de Uruguay ![Bandera de Uruguay](./logo/uruguay.png). Autodidacta y loco por la tecnología. 
 
 ---
 
@@ -35,11 +35,11 @@ Aquí encontrarás algunos de mis proyectos más destacados:
 ![CSS3](./logo/css-logo.png)
 ![JavaScript](./logo/javascript-logo.png)
 ![ReactJS](./logo/react-logo.png)
-![Redux-Toolkit](.logo//redux-logo.png)
+![Redux-Toolkit](./logo/redux-logo.png)
 ![Bootstrap](./logo/bootstrap-logo.png)
 ![Sass](./logo/sass-logo.png)
 ![Tailwind-CSS](./logo/tailwind-css-logo.png)
-![Git](./logo/git.png)
+![Git](./logo/git-logo.png)
 
 
 
