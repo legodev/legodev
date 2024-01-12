@@ -15,7 +15,7 @@ Aquí encontrarás algunos de mis proyectos más destacados:
 - [Weather App](https://weather-app-lg.netlify.app/) - Aplicación de pronóstico del clima creada en React.js.
 - [Proyecto sin terminar](enlace_al_repositorio) - Una breve descripción del proyecto.
 
-![primer-banner](./javascript-banner.png)
+![primer-banner](./image/javascript-banner.png)
 
 ## Habilidades 🧠 
 
@@ -31,15 +31,15 @@ Aquí encontrarás algunos de mis proyectos más destacados:
 
 <br/>
 
-![HTML5](./html-logo.png)
-![CSS3](./css-logo.png)
-![JavaScript](./javascript-logo.png)
-![ReactJS](./react-logo.png)
-![Redux-Toolkit](./redux-logo.png)
-![Bootstrap](./bootstrap-logo.png)
-![Sass](./sass-logo.png)
-![Tailwind-CSS](./tailwind-css-logo.png)
-![Git](./git.png)
+![HTML5](./logo/html-logo.png)
+![CSS3](./logo/css-logo.png)
+![JavaScript](./logo/javascript-logo.png)
+![ReactJS](./logo/react-logo.png)
+![Redux-Toolkit](.logo//redux-logo.png)
+![Bootstrap](./logo/bootstrap-logo.png)
+![Sass](./logo/sass-logo.png)
+![Tailwind-CSS](./logo/tailwind-css-logo.png)
+![Git](./logo/git.png)
 
 
 
