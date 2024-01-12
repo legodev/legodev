@@ -39,7 +39,7 @@ Aquí encontrarás algunos de mis proyectos más destacados:
 ![Bootstrap](./logo/bootstrap-logo.png)
 ![Sass](./logo/sass-logo.png)
 ![Tailwind-CSS](./logo/tailwind-css-logo.png)
-![Git](./logo/git-logo.png)
+![Git](./logo/git.png)
 
 
 
