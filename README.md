@@ -25,9 +25,9 @@ Aquí encontrarás algunos de mis proyectos más destacados:
 * **React**
 * **Next.js**
 * **Redux Toolkit**
+* **Tailwind CSS**
 * **Bootstrap**
 * **Sass**
-* **Tailwind CSS**
 * **Git**
 
 <br/>
@@ -38,9 +38,9 @@ Aquí encontrarás algunos de mis proyectos más destacados:
 ![React](./logo/react-logo.png)
 ![Next.js](./logo/next-logo.png)
 ![Redux-Toolkit](./logo/redux-logo.png)
+![Tailwind-CSS](./logo/tailwind-css-logo.png)
 ![Bootstrap](./logo/bootstrap-logo.png)
 ![Sass](./logo/sass-logo.png)
-![Tailwind-CSS](./logo/tailwind-css-logo.png)
 ![Git](./logo/git.png)
 
 
